@@ -1,0 +1,4 @@
+[server]
+maxUploadSize = 1024
+enableXsrfProtection = false
+maxMessageSize = 1024
